@@ -17,7 +17,8 @@ A simple and responsive calculator built with HTML, CSS, and JavaScript.
 2. Open `index.html` in your browser.
 
 ## Demo
-![Screenshot](ss1.png)
+![HowToOpen](docs/ss1.png)
+![Calculator UI](docs/ss2.png)
 
 ## Future Improvements
 - Add advanced math functions (e.g., trigonometry, logarithms)
