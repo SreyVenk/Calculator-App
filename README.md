@@ -14,3 +14,14 @@ A simple and responsive calculator built with HTML, CSS, and JavaScript.
 
 ## Getting Started
 1. Clone this repository:
+2. Open `index.html` in your browser.
+
+## Demo
+![Screenshot](screenshot.png)
+
+## Future Improvements
+- Add advanced math functions (e.g., trigonometry, logarithms)
+- Improve styling for better accessibility
+
+## License
+MIT License
