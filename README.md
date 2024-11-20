@@ -24,5 +24,5 @@ A simple and responsive calculator built with HTML, CSS, and JavaScript.
 - Add advanced math functions (e.g., trigonometry, logarithms)
 - Improve styling for better accessibility
 
-## License
-MIT License
+## Project idea source:
+https://www.youtube.com/watch?v=cGgLHJGyS34
